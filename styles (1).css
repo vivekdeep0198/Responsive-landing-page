@@ -1,9 +1,11 @@
 /* Basic styling for the body and content */
 body {
+    background-image: linear-gradient(to right, #FF512F, #DD2476);
     margin: 0;
     font-family: Arial, sans-serif;
     padding-top: 60px; /* Add padding to prevent content from being hidden by the fixed navbar */
 }
+
 
 /* Make the content section tall enough to allow scrolling */
 .content {
